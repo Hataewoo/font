@@ -1,8 +1,8 @@
 /// 인텔리 센스 동작을 위한 코드
 /// <reference path="../lib/p5.global-mode.d.ts" />
 
-let fontD2Coding ;
-let fontD2CodingBold ;
+//let fontD2Coding ;
+//let fontD2CodingBold ;
 
 function preload()
 {
